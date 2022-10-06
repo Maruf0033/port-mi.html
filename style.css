@@ -1,3 +1,9 @@
+body {
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Inter Tight', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
 .one-heading {
     margin-left: 10%;
     border-left: 4px solid;
@@ -27,9 +33,7 @@ span {
     margin-top: 10px;
     margin-bottom: 10px;
     padding-bottom: 20px;
-    font-family: 'Gemunu Libre', sans-serif;
-    font-family: 'Inter Tight', sans-serif;
-    font-family: 'Poppins', sans-serif;
+
 }
 
 .link {
@@ -48,4 +52,26 @@ span {
     font-size: 50px;
     color: rgb(0, 4, 50);
     padding-left: 40%;
+}
+
+.part1 {
+    background-color: rgb(160, 211, 255);
+    border-radius: 10px;
+    width: 33.33%;
+}
+
+.part2 {
+    background-color: rgb(195, 142, 164);
+    border-radius: 10px;
+    width: 33.33%;
+}
+
+.part3 {
+    background-color: rgb(255, 194, 141);
+    border-radius: 10px;
+    width: 33.33%;
+}
+
+.sec3-1 {
+    width: 50%;
 }
