@@ -1,21 +1,51 @@
-body {
+.one-heading {
+    margin-left: 10%;
+    border-left: 4px solid;
+    border-left-color: rgb(255, 50, 50);
+    border-radius: 4px;
+    font-size: 33px;
+    padding-left: 10px;
+    font-family: 'Cuprum', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Inter Tight', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
+    display: center;
+    color: rgb(75, 75, 75);
+    width: 50%;
+}
+
+span {
+    color: rgb(255, 203, 73);
+}
+
+.one-para {
+    margin-left: 10%;
+    width: 50%;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
     font-family: 'Gemunu Libre', sans-serif;
     font-family: 'Inter Tight', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
 
-.one-heading {
-    margin-left: 20%;
-    border-left: 4px solid;
-    border-left-color: rgb(191, 24, 24);
+.link {
+    margin: 10px, 10px, 10px, 10px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(245, 81, 81);
     border-radius: 5px;
-    font-size: 35px;
-    padding-left: 10px;
-    font-family: 'Times New Roman', Times, serif;
-    display: center;
-    color: rgb(61, 60, 60);
 }
 
-span {
-    color: rgb(207, 150, 5);
+.misson22 {
+    font-size: 50px;
+    color: rgb(0, 4, 50);
+    padding-left: 40%;
 }
