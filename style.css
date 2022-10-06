@@ -1,11 +1,13 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Inter Tight', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .one-heading {
     margin-left: 20%;
-    border-left: 8px solid;
-    border-left-color: rgb(223, 30, 30);
+    border-left: 4px solid;
+    border-left-color: rgb(191, 24, 24);
     border-radius: 5px;
     font-size: 35px;
     padding-left: 10px;
