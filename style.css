@@ -72,6 +72,16 @@ span {
     width: 33.33%;
 }
 
+.sec3 {
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 .sec3-1 {
+    width: 50%;
+}
+
+.sec1-2 {
     width: 50%;
 }
