@@ -1,0 +1,19 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.one-heading {
+    margin-left: 20%;
+    border-left: 8px solid;
+    border-left-color: rgb(223, 30, 30);
+    border-radius: 5px;
+    font-size: 35px;
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    display: center;
+    color: rgb(61, 60, 60);
+}
+
+span {
+    color: rgb(207, 150, 5);
+}
