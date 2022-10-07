@@ -34,8 +34,8 @@ body {
 }
 
 .jpg-one {
-    margin-left: 170px;
-    margin-right: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding-bottom: 30px;
 }
 
@@ -174,4 +174,5 @@ span {
 
 #sesh {
     color: rgb(227, 0, 0);
+    font-size: 40px;
 }
