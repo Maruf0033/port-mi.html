@@ -4,8 +4,13 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.flex {
+    display: flex;
+}
+
 .one-heading {
-    margin-left: 10%;
+    margin-top: 10%;
+    margin-left: 180px;
     border-left: 4px solid;
     border-left-color: rgb(255, 50, 50);
     border-radius: 4px;
@@ -17,7 +22,6 @@ body {
     font-family: 'Inter Tight', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Yeseva One', cursive;
-    display: center;
     color: rgb(75, 75, 75);
     width: 50%;
 }
@@ -27,7 +31,7 @@ span {
 }
 
 .one-para {
-    margin-left: 10%;
+    margin-left: 180px;
     width: 50%;
     font-size: 18px;
     margin-top: 10px;
@@ -55,33 +59,41 @@ span {
 }
 
 .part1 {
-    background-color: rgb(160, 211, 255);
+    background-color: rgb(227, 248, 255);
     border-radius: 10px;
-    width: 33.33%;
+    width: 50%;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px 40px 20px 20px;
 }
 
 .part2 {
-    background-color: rgb(195, 142, 164);
+    background-color: rgb(253, 218, 243);
     border-radius: 10px;
-    width: 33.33%;
+    width: 50%;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px 40px 40px 20px;
 }
 
 .part3 {
-    background-color: rgb(255, 194, 141);
+    background-color: rgb(255, 247, 217);
     border-radius: 10px;
-    width: 33.33%;
-}
-
-.sec3 {
-    background-image: url(shape-1.png);
-    background-repeat: no-repeat;
-    background-position: left;
-}
-
-.sec3-1 {
     width: 50%;
+    margin-left: 40px;
+    padding: 20px 40px 65px 20px;
+    margin-right: 40px;
 }
 
-.sec1-2 {
-    width: 50%;
+
+.illustrator {
+
+    width: 42%;
+    height: 40%;
+    padding-left: 30%;
+}
+
+.heading3 {
+    padding-left: 25px;
+    font-size: 30px;
 }
