@@ -26,11 +26,9 @@ body {
     width: 50%;
 }
 
-.one-img {
-    width: 20px;
-    height: 20px;
+.jpg-one {
+    margin-top: 80px;
 }
-
 
 span {
     color: rgb(255, 203, 73);
