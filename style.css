@@ -2,6 +2,7 @@ body {
     font-family: 'Gemunu Libre', sans-serif;
     font-family: 'Inter Tight', sans-serif;
     font-family: 'Poppins', sans-serif;
+
 }
 
 .flex {
@@ -11,10 +12,11 @@ body {
 .one-heading {
     margin-top: 80px;
     margin-left: 180px;
+    margin-bottom: 30px;
     border-left: 4px solid;
     border-left-color: rgb(255, 50, 50);
     border-radius: 4px;
-    font-size: 33px;
+    font-size: 50px;
     padding-left: 10px;
     font-family: 'Cuprum', sans-serif;
     font-family: 'Dosis', sans-serif;
@@ -23,11 +25,13 @@ body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Yeseva One', cursive;
     color: rgb(75, 75, 75);
-    width: 50%;
+    width: 400px;
+    text-align: left;
 }
 
 .jpg-one {
-    margin-left: 200px;
+    margin-left: 170px;
+    margin-right: 80px;
 }
 
 span {
@@ -37,7 +41,6 @@ span {
 .one-para {
     margin-left: 180px;
     width: 50%;
-    font-size: 18px;
     margin-top: 10px;
     margin-bottom: 10px;
     padding-bottom: 20px;
@@ -64,40 +67,66 @@ span {
 
 .part1 {
     background-color: rgb(227, 248, 255);
-    border-radius: 10px;
-    width: 50%;
-    margin-left: 40px;
+    border-radius: 40px;
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
     margin-right: 40px;
-    padding: 20px 40px 20px 20px;
+    padding: 20px 40px 70px 20px;
 }
 
 .part2 {
     background-color: rgb(253, 218, 243);
-    border-radius: 10px;
-    width: 50%;
+    border-radius: 40px;
+    width: 400px;
+    height: 400px;
     margin-left: 40px;
     margin-right: 40px;
-    padding: 20px 40px 40px 20px;
+    padding: 20px 40px 70px 20px;
 }
 
 .part3 {
     background-color: rgb(255, 247, 217);
-    border-radius: 10px;
-    width: 50%;
+    border-radius: 40px;
+    width: 400px;
+    height: 400px;
     margin-left: 40px;
-    padding: 20px 40px 65px 20px;
-    margin-right: 40px;
+    padding: 20px 40px 70px 20px;
+    margin-right: 200px;
 }
 
 
 .illustrator {
 
-    width: 42%;
-    height: 40%;
-    padding-left: 30%;
+    width: 150px;
+    height: 150px;
+    padding-left: 50px;
 }
 
 .heading3 {
     padding-left: 30px;
     font-size: 30px;
+}
+
+#coding {
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-size: 280px;
+    font-size: 20px;
+
+}
+
+#codeH {
+    font-size: 50px;
+}
+
+#codeim {
+    margin-left: 120px;
+}
+
+.code-para {
+    padding: 0px 40px 0px 40px;
 }
